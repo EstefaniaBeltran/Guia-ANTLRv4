@@ -1,4 +1,4 @@
-# Preguntas de analisis- ANTLR4
+# Preguntas de análisis - ANTLR4
 
 ### 1. ¿Cuál es la diferencia entre un lexema y un token?
 * Lexema: Es la palabra o texto exacto tal cual como lo escribimos en el código (por ejemplo, el texto mostrar, ventas o el número 105).
